@@ -32,14 +32,14 @@ const background = {
 const divider = "#E6E8F0";
 
 const primary = {
-	main: "#039D55",
-	deep: "#026034",
+	main: "#93C572",
+	deep: "#4f852b",
 	light: "#EBFDF2",
-	dark: "#1c6641",
+	dark: "#305c13",
 	semiLight: "#E4FFF3",
 	contrastText: "#FFFFFF",
-	customType1: "#0DCB72",
-	customType2: "#3BB77E",
+	customType1: "#7FB069",
+	customType2: "#7FB069",
 	customType3: "#29CE00",
 	overLay: "#000000",
 	lite: "rgba(3, 157, 85, 0.1)",
@@ -97,7 +97,7 @@ const error = {
 };
 
 const text = {
-	primary: "#3E594D",
+	primary: "#2F3E2F",
 	secondary: "#93A2AE",
 	disabled: "rgba(55, 65, 81, 0.48)",
 	custom: "#3F3F3F",
