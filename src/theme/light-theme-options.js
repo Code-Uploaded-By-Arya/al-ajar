@@ -16,7 +16,7 @@ const neutral = {
 };
 
 const background = {
-	default: "#93C572",
+	default: "#F9FAFC",
 	paper: "#FFFFFF",
 	custom: "#f1f2f5",
 	custom2: "#FFFFFF",
@@ -33,15 +33,14 @@ const divider = "#E6E8F0";
 
 const primary = {
 	main: "#93C572",
-	deep: "#4f852b",
-	
+	deep: "#93C572",
 	light: "#EBFDF2",
-	dark: "#305c13",
+	dark: "#93C572",
 	semiLight: "#E4FFF3",
 	contrastText: "#FFFFFF",
-	customType1: "#7FB069",
-	customType2: "#7FB069",
-	customType3: "#93C572",
+	customType1: "#93C572",
+	customType2: "#93C572",
+	customType3: "#29CE00",
 	overLay: "#000000",
 	lite: "rgba(3, 157, 85, 0.1)",
 	icon: "#93C572",
@@ -98,7 +97,7 @@ const error = {
 };
 
 const text = {
-	primary: "#2F3E2F",
+	primary: "#3E594D",
 	secondary: "#93A2AE",
 	disabled: "rgba(55, 65, 81, 0.48)",
 	custom: "#3F3F3F",
@@ -107,7 +106,7 @@ const text = {
 
 const footer = {
 	inputButton: "#BBFFDF",
-	inputButtonHover: "#6dcfa6",
+	inputButtonHover: "#93C572",
 	bottom: "rgba(0, 98, 52, 0.3)",
 	foodBottom: "#686B78",
 	appDownloadButtonBg: "#1A1A1A",
