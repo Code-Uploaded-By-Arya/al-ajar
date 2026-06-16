@@ -22,7 +22,7 @@ const moduleTheme = {
 };
 
 const background = {
-  default: "#0B0F19",
+  default: "#93C572",
   paper: neutral[900],
   custom: "#282829",
   custom2: "#1F2937",
@@ -41,15 +41,15 @@ const roundStackOne = "rgba(255, 255, 255, 0.04)";
 const roundStackTwo = "rgba(255, 255, 255, 0.06)";
 const primary = {
   main: "#93C572",
-  light: "#c9ecb2e3",
-  dark: "#73af4a",
-  deep: "#3a691a",
+  light: "#93C572",
+  dark: "#93C572",
+  deep: "#93C572",
   contrastText: neutral[900],
   semiLight: "#E4FFF3",
   overLay: "#000000",
   customType2: "#7FB069",
   lite: "rgba(3, 157, 85, 0.1)",
-  customType3: "#29CE00",
+  customType3: "#93C572",
   icon: "#ffffff",
 };
 
@@ -61,9 +61,9 @@ const secondary = {
 };
 
 const success = {
-  main: "#14B8A6",
-  light: "#43C6B7",
-  dark: "#0E8074",
+  main: "#93C572",
+  light: "#93C572",
+  dark: "#93C572",
   contrastText: neutral[900],
 };
 
