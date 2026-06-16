@@ -16,7 +16,7 @@ const neutral = {
 };
 
 const background = {
-	default: "#F9FAFC",
+	default: "#93C572",
 	paper: "#FFFFFF",
 	custom: "#f1f2f5",
 	custom2: "#FFFFFF",
@@ -40,30 +40,30 @@ const primary = {
 	contrastText: "#FFFFFF",
 	customType1: "#7FB069",
 	customType2: "#7FB069",
-	customType3: "#29CE00",
+	customType3: "#93C572",
 	overLay: "#000000",
 	lite: "rgba(3, 157, 85, 0.1)",
-	icon: "#039D55",
+	icon: "#93C572",
 };
 const moduleTheme = {
-	pharmacy: "#039D55",
-	ecommerce: "#039D55",
-	food: "#039D55",
-	parcel: "#039D55",
+	pharmacy: "#93C572",
+	ecommerce: "#93C572",
+	food: "#93C572",
+	parcel: "#93C572",
 };
 const horizontalCardBG = "#E4FFF3";
 
 const secondary = {
-	main: "#10B981",
-	light: "#3FC79A",
-	dark: "#0B815A",
+	main: "#93C572",
+	light: "#93C572",
+	dark: "#93C572",
 	contrastText: "#FFFFFF",
 };
 
 const success = {
-	main: "#14B8A6",
-	light: "#43C6B7",
-	dark: "#0E8074",
+	main: "#93C572",
+	light: "#93C572",
+	dark: "#93C572",
 	contrastText: "#FFFFFF",
 };
 
