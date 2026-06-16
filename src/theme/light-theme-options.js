@@ -34,6 +34,7 @@ const divider = "#E6E8F0";
 const primary = {
 	main: "#93C572",
 	deep: "#4f852b",
+	
 	light: "#EBFDF2",
 	dark: "#305c13",
 	semiLight: "#E4FFF3",
